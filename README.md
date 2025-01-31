@@ -6,7 +6,7 @@ From Malaysia 🇲🇾, Residing in Sweden 🇸🇪
 <br><br>
  🔭 I’m currently working on Frontend (HTML, CSS, JavaScript)
  <br>
- 📫 How to reach me: [mj.eng.contact@gmail.com](mailto:mj.eng.contact@gmail.com)**mj.eng.contact@gmail.com**
+ How to reach me **mj.eng.contact@gmail.com**
  <br>
  ⚡ Fun fact: I have 2 cats 🐈🐈
 
