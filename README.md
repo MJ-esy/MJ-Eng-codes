@@ -2,7 +2,7 @@
 <br>
 I am 🦝MJ and currently studying to be a 🌱Fullstack C#/.NET.
 <br>
-From Malaysia 🇲🇾, Residing in Sweden 🇸🇪
+From Malaysia, Residing in Sweden
 <br><br>
  🔭 I’m currently working on Frontend (HTML, CSS, JavaScript)
  <br>
