@@ -8,6 +8,8 @@ From Malaysia, Residing in Sweden
  <br>
  📫 How to reach me: <a href="mailto:mj.eng.contact@gmail.com">mj.eng.contact@gmail.com</a>
  <br>
+ 📈 Leveling up my C# and SQL skills
+ <br>
  ⚡ Fun fact: I have 2 cats 🐈🐈
 
 ## Github stats: 💻
