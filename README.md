@@ -21,7 +21,7 @@ From Malaysia, Residing in Sweden
 
 ## :mailbox: Connect with Me 😁
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mj-yen-eng/") or check out my [personal website]([https://mj-eng-codes.github.io/CV/](https://mj-esy.github.io/)).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mj-yen-eng/") or check out my [personal website]("https://mj-eng-codes.github.io/CV/](https://mj-esy.github.io/").
 
 ## :hammer_and_wrench: Tools I Use
 
