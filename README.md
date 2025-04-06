@@ -7,7 +7,7 @@
 I am MJ and currently studying to be a 🌱Fullstack C#/.NET.
 
 From Malaysia, Residing in Sweden
-<br><br><br>
+<br>
 
 - 🔭 I’m currently working on an exciting app as a School Project!!
 - 📫 How to reach me: <a href="mailto:mj.eng.contact@gmail.com">mj.eng.contact@gmail.com</a>
@@ -19,9 +19,11 @@ From Malaysia, Residing in Sweden
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MJ-esy&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ovi" />
 
+
 ## :mailbox: Connect with Me 😁
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mj-yen-eng/") or check out my [Personal Website](https://mj-esy.github.io/").
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mj-yen-eng/) or check out my [Personal Website](https://mj-esy.github.io/CV).
+
 
 ## :hammer_and_wrench: Tools I Use
 
