@@ -17,7 +17,7 @@ From Malaysia, Residing in Sweden
 
 ## Github stats: 💻
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MJ-Eng-codes&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MJ-esy&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="ovi" />
 
 ## :mailbox: Connect with Me 😁
 
